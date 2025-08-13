@@ -1,4 +1,13 @@
-## Hi there 👋
+# مرحبًا! أنا <اسمك> 👋
+- مطوّر مهتم بـ <تقنياتك>  
+- أعمل على: <مشروع_1> | <مشروع_2>
+- تواصل: [LinkedIn](https://...) • [Twitter](https://...)
+
+## مهارات
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,python,docker,linux,git)](https://skillicons.dev)
+
+## إحصاءات
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true)
 
 <!--
 **a-y-ibrahim/a-y-ibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
