@@ -1,0 +1,37 @@
+<svg width="854" height="120" viewBox="0 0 854 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Thanks for stopping by">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#060b14"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c7d2fe"/>
+      <stop offset="0.6" stop-color="#8B7CF0"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.7">
+      <stop offset="0" stop-color="#4f46e5" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#4f46e5" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#4f46e5" fill-opacity="0.14"/>
+    </pattern>
+  </defs>
+
+  <rect x="0" y="0" width="854" height="120" rx="18" fill="url(#bg)"/>
+  <rect x="0" y="0" width="854" height="120" rx="18" fill="url(#grid)"/>
+  <rect x="0" y="0" width="854" height="120" rx="18" fill="url(#glow)"/>
+  <rect x="0.75" y="0.75" width="852.5" height="118.5" rx="17.25" fill="none" stroke="#8B7CF0" stroke-opacity="0.20" stroke-width="1.5"/>
+
+  <text x="268" y="68" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#0EA5E9">&gt;_
+    <animate attributeName="fill-opacity" values="1;0.1;1" dur="2.4s" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/>
+  </text>
+  <text x="306" y="68" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="24" font-weight="600" letter-spacing="0.5" fill="url(#txt)">thanks for stopping by!</text>
+
+  <circle cx="726" cy="42" r="2.5" fill="#7dd3fc" fill-opacity="0.8">
+    <animate attributeName="cy" values="42;36;42" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="128" cy="80" r="2.5" fill="#8B7CF0" fill-opacity="0.8">
+    <animate attributeName="cy" values="80;74;80" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

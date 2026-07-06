@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdelrahman%20Youssef&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20MCP%20Tooling&descSize=18&descAlignY=60" width="100%" alt="Abdelrahman Youssef, Full-Stack Developer, AI and MCP Tooling" />
+<img src="./assets/banner.svg" width="100%" alt="Abdelrahman Youssef, Full-Stack Developer, AI and MCP Tooling" />
 
 <a href="https://a-y-ibrahim.com/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=520&height=55&color=8B7CF0&lines=Hi!+I'm+Abdelrahman+%F0%9F%91%8B;I+build+full-stack+apps+%2B+AI+tooling;I+teach+robots+to+use+After+Effects;RTL+%2F+Arabic+%2F+i18n+is+my+superpower" alt="Typing animation intro" /></a>
 
@@ -27,11 +27,11 @@
 
 <img align="right" width="300" src="./assets/anim-5.gif" alt="cute coding animation" />
 
-- <img src="./assets/anim-3.gif" width="18" alt="tech" /> **Full-Stack Developer** working across TypeScript, Node.js, React, and Python
-- <img src="./assets/anim-2.gif" width="18" alt="python" /> Building **AI tooling** with the **Model Context Protocol (MCP)**
-- <img src="./assets/anim-4.gif" width="18" alt="rtl" /> My edge: **Arabic / RTL / i18n**, I make software feel right in both directions
-- <img src="./assets/deco-2.png" width="18" alt="location" /> Based in Saudi Arabia (KSA), open to collaboration worldwide
-- <img src="./assets/sparkles.png" width="18" alt="sparkle" /> Ask me about MCP servers, After Effects scripting, and RTL-first UX
+- <img src="./assets/anim-3.gif" width="18" alt="rocket" /> I ship fixes into open source used by **millions**, most recently **Bluesky** and **Obsidian**
+- <img src="./assets/anim-2.gif" width="18" alt="ai" /> I build **AI tooling on the Model Context Protocol**, my After Effects server exposes **47 tools** to AI clients
+- <img src="./assets/anim-4.gif" width="18" alt="stack" /> **Full-stack** across TypeScript, Node.js, React and Python, with C++ and Lua underneath
+- <img src="./assets/deco-2.png" width="18" alt="rtl" /> A rare specialty in **Arabic / RTL / i18n**, I make software correct in both directions
+- <img src="./assets/sparkles.png" width="18" alt="sparkle" /> Based in Saudi Arabia, building and collaborating worldwide
 
 <br clear="right" />
 
@@ -74,18 +74,22 @@ and first-class Arabic / RTL and multilingual support, all in **47 tools**.
 
 <div align="center">
 
-I like to leave real projects a little better than I found them, often with an RTL / i18n fix.
+**Real code in projects with a combined 110K+ stars.** I ship small, reviewable pull requests upstream, not forks left to rot.
+
+<img src="https://img.shields.io/badge/%E2%98%85_110K+-stars_across_projects_I_contribute_to-8B7CF0?style=for-the-badge&labelColor=1a1a2e" alt="110K+ combined stars" />
+&nbsp;
+<img src="https://img.shields.io/badge/PRs-1_merged_%C2%B7_3_open_in_top_OSS-5DCAA5?style=for-the-badge&labelColor=1a1a2e" alt="1 merged, 3 open PRs" />
 
 </div>
 
 <br />
 
-| <img src="./assets/sparkles.png" width="16" alt="star" /> Project | What I did |
-| :-- | :-- |
-| **[bluesky-social/social-app](https://github.com/bluesky-social/social-app/pull/11066)** | PR #11066, fixed bidirectional (bidi) handle rendering |
-| **[obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper/pull/909)** | PR #909, fixed RTL rendering in the reader view |
-| **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/pull/9214)** | PR #9214, added my MCP server to the list |
-| **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/pull/9267)** | PR #9267, first complete Arabic translation of the list |
+| Project | Stars | What I shipped | Status |
+| :-- | :--: | :-- | :--: |
+| **[bluesky-social/social-app](https://github.com/bluesky-social/social-app/pull/11066)** | <img src="https://img.shields.io/github/stars/bluesky-social/social-app?style=flat-square&color=8B7CF0&labelColor=1a1a2e&label=%E2%98%85" alt="stars" /> | Stopped invisible bidi characters from leaking into copied handles across the web app | <!--status:bluesky-social/social-app#11066--><img src="https://img.shields.io/badge/OPEN-8B7CF0?style=flat-square&labelColor=1a1a2e" alt="open" /><!--/status--> |
+| **[obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper/pull/909)** | <img src="https://img.shields.io/github/stars/obsidianmd/obsidian-clipper?style=flat-square&color=8B7CF0&labelColor=1a1a2e&label=%E2%98%85" alt="stars" /> | Fixed right-to-left rendering in the reader view | <!--status:obsidianmd/obsidian-clipper#909--><img src="https://img.shields.io/badge/OPEN-8B7CF0?style=flat-square&labelColor=1a1a2e" alt="open" /><!--/status--> |
+| **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/pull/9214)** | <img src="https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat-square&color=5DCAA5&labelColor=1a1a2e&label=%E2%98%85" alt="stars" /> | Added my After Effects MCP server to the canonical list | <!--status:punkpeye/awesome-mcp-servers#9214--><img src="https://img.shields.io/badge/MERGED-5DCAA5?style=flat-square&labelColor=1a1a2e" alt="merged" /><!--/status--> |
+| **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/pull/9267)** | <img src="https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat-square&color=5DCAA5&labelColor=1a1a2e&label=%E2%98%85" alt="stars" /> | Authored the first complete Arabic translation of the list | <!--status:punkpeye/awesome-mcp-servers#9267--><img src="https://img.shields.io/badge/OPEN-8B7CF0?style=flat-square&labelColor=1a1a2e" alt="open" /><!--/status--> |
 
 <div align="center">
 
@@ -141,7 +145,7 @@ I like to leave real projects a little better than I found them, often with an R
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%" alt="footer wave" />
+<img src="./assets/footer.svg" width="100%" alt="footer wave" />
 
 <sub><b>~</b> <a href="https://a-y-ibrahim.com/">a-y-ibrahim.com</a></sub>
 
