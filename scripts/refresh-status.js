@@ -11,6 +11,7 @@ const README = path.join(__dirname, '..', 'README.md');
 // Pull requests to track. Add a line here to track a new contribution.
 const PRS = [
   'bluesky-social/social-app#11066',
+  'bluesky-social/atproto#5222',
   'obsidianmd/obsidian-clipper#909',
   'punkpeye/awesome-mcp-servers#9214',
   'punkpeye/awesome-mcp-servers#9267',

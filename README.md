@@ -78,7 +78,7 @@ and first-class Arabic / RTL and multilingual support, all in **47 tools**.
 
 <img src="https://img.shields.io/badge/%E2%98%85_110K+-stars_across_projects_I_contribute_to-8B7CF0?style=for-the-badge&labelColor=1a1a2e" alt="110K+ combined stars" />
 &nbsp;
-<img src="https://img.shields.io/badge/PRs-1_merged_%C2%B7_3_open_in_top_OSS-5DCAA5?style=for-the-badge&labelColor=1a1a2e" alt="1 merged, 3 open PRs" />
+<img src="https://img.shields.io/badge/PRs-1_merged_%C2%B7_4_open_in_top_OSS-5DCAA5?style=for-the-badge&labelColor=1a1a2e" alt="1 merged, 4 open PRs" />
 
 </div>
 
@@ -87,6 +87,7 @@ and first-class Arabic / RTL and multilingual support, all in **47 tools**.
 | Project | Stars | What I shipped | Status |
 | :-- | :--: | :-- | :--: |
 | **[bluesky-social/social-app](https://github.com/bluesky-social/social-app/pull/11066)** | <img src="https://img.shields.io/github/stars/bluesky-social/social-app?style=flat-square&color=8B7CF0&labelColor=1a1a2e&label=%E2%98%85" alt="stars" /> | Stopped invisible bidi characters from leaking into copied handles across the web app | <!--status:bluesky-social/social-app#11066--><img src="https://img.shields.io/badge/OPEN-8B7CF0?style=flat-square&labelColor=1a1a2e" alt="open" /><!--/status--> |
+| **[bluesky-social/atproto](https://github.com/bluesky-social/atproto/pull/5222)** | <img src="https://img.shields.io/github/stars/bluesky-social/atproto?style=flat-square&color=8B7CF0&labelColor=1a1a2e&label=%E2%98%85" alt="stars" /> | Sanitized bidi control characters from display names at the protocol level | <!--status:bluesky-social/atproto#5222--><img src="https://img.shields.io/badge/OPEN-8B7CF0?style=flat-square&labelColor=1a1a2e" alt="open" /><!--/status--> |
 | **[obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper/pull/909)** | <img src="https://img.shields.io/github/stars/obsidianmd/obsidian-clipper?style=flat-square&color=8B7CF0&labelColor=1a1a2e&label=%E2%98%85" alt="stars" /> | Fixed right-to-left rendering in the reader view | <!--status:obsidianmd/obsidian-clipper#909--><img src="https://img.shields.io/badge/OPEN-8B7CF0?style=flat-square&labelColor=1a1a2e" alt="open" /><!--/status--> |
 | **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/pull/9214)** | <img src="https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat-square&color=5DCAA5&labelColor=1a1a2e&label=%E2%98%85" alt="stars" /> | Added my After Effects MCP server to the canonical list | <!--status:punkpeye/awesome-mcp-servers#9214--><img src="https://img.shields.io/badge/MERGED-5DCAA5?style=flat-square&labelColor=1a1a2e" alt="merged" /><!--/status--> |
 | **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/pull/9267)** | <img src="https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat-square&color=5DCAA5&labelColor=1a1a2e&label=%E2%98%85" alt="stars" /> | Authored the first complete Arabic translation of the list | <!--status:punkpeye/awesome-mcp-servers#9267--><img src="https://img.shields.io/badge/OPEN-8B7CF0?style=flat-square&labelColor=1a1a2e" alt="open" /><!--/status--> |
