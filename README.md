@@ -8,7 +8,7 @@
 
 <img src="./assets/deco-1.png" width="34" alt="waving hand" />&nbsp;&nbsp;
 <a href="https://a-y-ibrahim.com/"><img src="https://img.shields.io/badge/Website-a--y--ibrahim.com-8B7CF0?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a1a2e" alt="Website" /></a>
-*<a href="https://www.linkedin.com/in/a-y-ibrahim/"><img src="https://img.shields.io/badge/LinkedIn-Connect-5DCAA5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" /></a>*
+#<a href="https://www.linkedin.com/in/a-y-ibrahim/"><img src="https://img.shields.io/badge/LinkedIn-Connect-5DCAA5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" /></a>
 <a href="mailto:a.y.ibrahim@hotmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-F0997B?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1a1a2e" alt="Email" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=a-y-ibrahim&style=for-the-badge&color=8B7CF0&label=PROFILE+VIEWS" alt="Profile views" />
