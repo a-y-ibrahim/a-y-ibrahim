@@ -12,8 +12,10 @@ const README = path.join(__dirname, '..', 'README.md');
 // Only merged PRs get a table row (see README.md); this list is also the set
 // of markers the README actually contains, so it should match 1:1.
 const PRS = [
+  'react-hook-form/react-hook-form#13599',
+  'mobxjs/mobx#4684',
+  'ianstormtaylor/slate#6084',
   'bluesky-social/social-app#11066',
-  'punkpeye/awesome-mcp-servers#9214',
 ];
 
 function badge(status) {
