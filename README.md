@@ -26,11 +26,12 @@
 
 <img align="right" width="300" src="./assets/anim-5.gif" alt="cute coding animation" />
 
-- <img src="./assets/anim-3.gif" width="18" alt="rocket" /> I ship fixes into open source used by **millions**, most recently **Bluesky**
-- <img src="./assets/anim-2.gif" width="18" alt="ai" /> I build **AI tooling on the Model Context Protocol**, my After Effects server exposes **47 tools** to AI clients
-- <img src="./assets/anim-4.gif" width="18" alt="stack" /> **Full-stack** across TypeScript, Node.js, React and Python, with C++ and Lua underneath
-- <img src="./assets/deco-2.png" width="18" alt="rtl" /> A rare specialty in **Arabic / RTL / i18n**, I make software correct in both directions
-- <img src="./assets/sparkles.png" width="18" alt="sparkle" /> Based in Saudi Arabia, building and collaborating worldwide
+- <img src="./assets/anim-3.gif" width="18" alt="rocket" /> My fixes are merged into **React Hook Form**, **MobX**, **Slate** and the **Bluesky** app
+- <img src="./assets/anim-2.gif" width="18" alt="ai" /> I build **AI tooling on the Model Context Protocol**: my After Effects server gives AI clients **57 tools**
+- <img src="./assets/rocket.png" width="18" alt="rocket" /> I built a **hosting management platform** from scratch to replace WHMCS: customer portal, PayPal billing, provisioning and an Arabic control panel, with 485 test files and 15 CI workflows
+- <img src="./assets/anim-4.gif" width="18" alt="stack" /> **Full-stack**: TypeScript, Node.js, React and Next.js on Linux, plus Python, C++ and Lua
+- <img src="./assets/deco-2.png" width="18" alt="target" /> **Arabic / RTL / i18n**: I make software work correctly in both directions
+- <img src="./assets/sparkles.png" width="18" alt="sparkles" /> Based in Jeddah, Saudi Arabia
 
 <br clear="right" />
 
@@ -53,10 +54,12 @@
 **An MCP server for controlling Adobe After Effects from AI clients.**
 
 ExtendScript execution, background rendering, deep project and layer inspection,
-and first-class Arabic / RTL and multilingual support, all in **47 tools**.
+and first-class Arabic / RTL and multilingual support, all in **57 tools**.
+Built on earlier community work, credited in the repo.
 
-<a href="https://github.com/a-y-ibrahim/after-effects-mcp"><img src="https://img.shields.io/badge/47%20Tools-8B7CF0?style=for-the-badge&logoColor=white&labelColor=1a1a2e" alt="47 tools" /></a>
-<a href="https://glama.ai/mcp/servers"><img src="https://img.shields.io/badge/Listed%20on-Glama-5DCAA5?style=for-the-badge&logoColor=white&labelColor=1a1a2e" alt="On Glama" /></a>
+<a href="https://github.com/a-y-ibrahim/after-effects-mcp"><img src="https://img.shields.io/badge/57%20Tools-8B7CF0?style=for-the-badge&logoColor=white&labelColor=1a1a2e" alt="57 tools" /></a>
+<a href="https://www.npmjs.com/package/after-effects-mcp"><img src="https://img.shields.io/npm/dm/after-effects-mcp?style=for-the-badge&label=npm%20downloads&color=8B7CF0&labelColor=1a1a2e" alt="npm downloads per month" /></a>
+<a href="https://glama.ai/mcp/servers/a-y-ibrahim/after-effects-mcp"><img src="https://img.shields.io/badge/Listed%20on-Glama-5DCAA5?style=for-the-badge&logoColor=white&labelColor=1a1a2e" alt="On Glama" /></a>
 <a href="https://github.com/punkpeye/awesome-mcp-servers"><img src="https://img.shields.io/badge/In-awesome--mcp--servers-F0997B?style=for-the-badge&logoColor=white&labelColor=1a1a2e" alt="In awesome-mcp-servers" /></a>
 
 </div>
@@ -73,11 +76,11 @@ and first-class Arabic / RTL and multilingual support, all in **47 tools**.
 
 <div align="center">
 
-**Real code in projects with a combined 100K+ stars.** I ship small, reviewable pull requests upstream, not forks left to rot.
+**Merged fixes in projects with a combined 120K+ stars.** I ship small, reviewable pull requests upstream.
 
-<img src="https://img.shields.io/badge/%E2%98%85_100K+-stars_across_projects_I_contribute_to-8B7CF0?style=for-the-badge&labelColor=1a1a2e" alt="100K+ combined stars" />
+<img src="https://img.shields.io/badge/%E2%98%85_120K+-stars_across_projects_with_my_merged_fixes-8B7CF0?style=for-the-badge&labelColor=1a1a2e" alt="120K+ combined stars" />
 &nbsp;
-<img src="https://img.shields.io/badge/PRs-2_merged_in_top_OSS-5DCAA5?style=for-the-badge&labelColor=1a1a2e" alt="2 merged PRs" />
+<img src="https://img.shields.io/badge/Fixes-4_merged_upstream-5DCAA5?style=for-the-badge&labelColor=1a1a2e" alt="4 merged fixes" />
 
 </div>
 
@@ -85,8 +88,10 @@ and first-class Arabic / RTL and multilingual support, all in **47 tools**.
 
 | Project | Stars | What I shipped | Status |
 | :-- | :--: | :-- | :--: |
+| **[react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form/pull/13599)** | <img src="https://img.shields.io/github/stars/react-hook-form/react-hook-form?style=flat-square&color=8B7CF0&labelColor=1a1a2e&label=%E2%98%85" alt="stars" /> | Fixed a race condition in which stale `_setValid()` calls overwrote `isValid` and `isValidating` | <!--status:react-hook-form/react-hook-form#13599--><img src="https://img.shields.io/badge/MERGED-5DCAA5?style=flat-square&labelColor=1a1a2e" alt="merged" /><!--/status--> |
+| **[mobxjs/mobx](https://github.com/mobxjs/mobx/pull/4684)** | <img src="https://img.shields.io/github/stars/mobxjs/mobx?style=flat-square&color=8B7CF0&labelColor=1a1a2e&label=%E2%98%85" alt="stars" /> | Fixed a stack overflow in `endBatch()` when a Reaction is disposed from `onBecomeUnobserved` | <!--status:mobxjs/mobx#4684--><img src="https://img.shields.io/badge/MERGED-5DCAA5?style=flat-square&labelColor=1a1a2e" alt="merged" /><!--/status--> |
+| **[ianstormtaylor/slate](https://github.com/ianstormtaylor/slate/pull/6084)** | <img src="https://img.shields.io/github/stars/ianstormtaylor/slate?style=flat-square&color=8B7CF0&labelColor=1a1a2e&label=%E2%98%85" alt="stars" /> | Kept the DOM in sync in slate-react when a native `insertText` is a no-op | <!--status:ianstormtaylor/slate#6084--><img src="https://img.shields.io/badge/MERGED-5DCAA5?style=flat-square&labelColor=1a1a2e" alt="merged" /><!--/status--> |
 | **[bluesky-social/social-app](https://github.com/bluesky-social/social-app/pull/11066)** | <img src="https://img.shields.io/github/stars/bluesky-social/social-app?style=flat-square&color=8B7CF0&labelColor=1a1a2e&label=%E2%98%85" alt="stars" /> | Stopped invisible bidi characters from leaking into copied handles across the web app | <!--status:bluesky-social/social-app#11066--><img src="https://img.shields.io/badge/MERGED-5DCAA5?style=flat-square&labelColor=1a1a2e" alt="merged" /><!--/status--> |
-| **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/pull/9214)** | <img src="https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat-square&color=5DCAA5&labelColor=1a1a2e&label=%E2%98%85" alt="stars" /> | Added my After Effects MCP server to the canonical list | <!--status:punkpeye/awesome-mcp-servers#9214--><img src="https://img.shields.io/badge/MERGED-5DCAA5?style=flat-square&labelColor=1a1a2e" alt="merged" /><!--/status--> |
 
 <div align="center">
 
@@ -98,7 +103,9 @@ and first-class Arabic / RTL and multilingual support, all in **47 tools**.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,python,cpp,lua&theme=dark" alt="TypeScript, JavaScript, Node.js, React, Python, C++, Lua" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,python,cpp,lua&theme=dark" alt="TypeScript, JavaScript, Node.js, React, Next.js, Python, C++, Lua" />
+
+Also Express, NestJS, Fastify, Prisma, PostgreSQL, Redis, Docker, Nginx, Cloudflare and Flutter
 
 <br />
 
@@ -116,7 +123,6 @@ and first-class Arabic / RTL and multilingual support, all in **47 tools**.
 
 - <img src="./assets/deco-2.png" width="16" alt="dot" /> I care about **accessibility and internationalization**, especially getting RTL right, because half-broken Arabic UIs are everywhere and I enjoy fixing them.
 - <img src="./assets/deco-2.png" width="16" alt="dot" /> I like connecting **AI clients to real creative tools** (that is where After Effects + MCP came from).
-- <img src="./assets/deco-2.png" width="16" alt="dot" /> I ship small, reviewable pull requests upstream instead of forking and forgetting.
 
 </details>
 
